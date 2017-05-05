@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://pjcevans.github.io/portfolio",
+  "homepage": "http://pjcevans.github.io/resources",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
